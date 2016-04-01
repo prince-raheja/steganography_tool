@@ -5,14 +5,14 @@
 ### Encoding File ###
 To encode a file within an image file using a password you must select an image file, a file to be encoded within the image file, enter a password, and click the Encode button.
 
-Click the *Select Image* button to select the image for encoding.
-Click *Select File* button to select the file for encoding.
+Click the **Select Image** button to select the image for encoding.
+Click **Select File** button to select the file for encoding.
 Provide a password and the confirm it for the encoded image.
 
-Click *Encode* to encode the file.
+Click **Encode** to encode the file.
 A popup window will appear showingthe status of the operation performed
 
-Once the encoding is completed, click *File* and click *Save Encoded Image* and choose the directory where it should be saved and then click *Save*.
+Once the encoding is completed, click **File** and click **Save Encoded Image** and choose the directory where it should be saved and then click **Save**.
 A popup window will dispaly a successful operation.
 
 This README would normally document whatever steps are necessary to get your application up and running.
@@ -20,18 +20,18 @@ This README would normally document whatever steps are necessary to get your app
 
 ### Decoding File  ###
 
-To decode a file within an image file that was encoded using a password the user must select an image file to be decoded, enter a password, and click the *Decode*  button.
+To decode a file within an image file that was encoded using a password the user must select an image file to be decoded, enter a password, and click the **Decode**  button.
 
 To decode the image and extract the required file from the encoded image 
 
-Click the *Select Image* button to select the encoded image.
+Click the **Select Image** button to select the encoded image.
 Provide the password for that particular image to decode the image.
 
  A popup window will appear displaying the status of the decode operation.
 
- To save the decoded file from the decoded image, click *File* and then click *Save Decoded File*. After choosing the path for the file, click *Save*.
+ To save the decoded file from the decoded image, click **File** and then click **Save Decoded File**. After choosing the path for the file, click **Save**.
 
- After clicking *Save*  a popup window will display a successful save operation.
+ After clicking **Save**  a popup window will display a successful save operation.
 
 
 
